@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+	<channel>
+		<title>SwiftWire Change Log</title>
+		<description>SwiftWire - Desktop automation re-imagined</description>
+		<language>en</language>
+		<item>
+			<title>SwiftWire 1.4.0.0.u.dev</title>
+			<description>
+				<![CDATA[
+					<div style='font-family: Helvetica; font-size: 12px;padding: 10px;'>
+						<h2 style='color: Green; font-size: 15px; margin: 0; padding: 0 0 10px;'>SwiftWire 1.4.0.0.u.dev Release Notes</h2>
+						<ul style='margin-top: 0px;'>
+							<li>Improved automation playback accuracy</li>
+							<li>Software automatic update</li>
+							<li>New look and feel</li>
+							<li>Simpler interface</li>
+							<li>Better experience</li>
+						</ul>
+					</div>
+				]]>
+			</description>
+			<pubDate>Tue, 13 Feb 2018 00:00:00 -0000</pubDate>
+			<enclosure url="https://fluent.systems/winsparkle/SwiftWireInstaller.exe" sparkle:version="1.4.0.0.u.dev" length="0" type="application/octet-stream" />
+		</item>
+		<item>
+			<title>SwiftWire 1.4.0.0.d.dev</title>
+			<description>
+				<![CDATA[
+					<div style='font-family: Helvetica; font-size: 12px;padding: 10px;'>
+						<h2 style='color: Green; font-size: 15px; margin: 0; padding: 0 0 10px;'>SwiftWire 1.4.0.0.d.dev Release Notes</h2>
+						<ul style='margin-top: 0px;'>
+							<li>Improved automation playback accuracy</li>
+							<li>Software automatic update</li>
+							<li>New look and feel</li>
+							<li>Simpler interface</li>
+							<li>Better experience</li>
+						</ul>
+					</div>
+				]]>
+			</description>
+			<pubDate>Mon, 12 Feb 2018 00:00:00 -0000</pubDate>
+			<enclosure url="https://fluent.systems/winsparkle/SwiftWireInstaller.exe" sparkle:version="1.4.0.0.d.dev" length="0" type="application/octet-stream" />
+		</item>
+		<item>
+			<title>SwiftWire 1.4.0.0</title>
+			<description>
+				<![CDATA[
+					<div style='font-family: Helvetica; font-size: 12px;padding: 10px;'>
+						<h2 style='color: Green; font-size: 15px; margin: 0; padding: 0 0 10px;'>SwiftWire 1.4 Release Notes</h2>
+						<ul style='margin-top: 0px;'>
+							<li>Improved automation playback accuracy</li>
+							<li>Software automatic update</li>
+							<li>New look and feel</li>
+							<li>Simpler interface</li>
+							<li>Better experience</li>
+						</ul>
+					</div>
+				]]>
+			</description>
+			<pubDate>Sat, 20 Jan 2018 00:00:00 -0000</pubDate>
+			<enclosure url="https://fluent.systems/winsparkle/SwiftWireInstaller.exe" sparkle:version="1.4.0.0" length="0" type="application/octet-stream" />
+		</item>
+		<item>
+			<title>SwiftWire 1.3.0.0</title>
+			<description>
+				<![CDATA[
+					<div style='font-family: Helvetica; font-size: 12px;padding: 10px;'>
+						<h2 style='color: Green; font-size: 15px; margin: 0; padding: 0 0 10px;'>SwiftWire 1.4 Release Notes</h2>
+						<ul style='margin-top: 0px;'>
+							<li>Improved automation playback accuracy</li>
+							<li>Software automatic update</li>
+							<li>New look and feel</li>
+							<li>Simpler interface</li>
+							<li>Better experience</li>
+						</ul>
+					</div>
+				]]>
+			</description>
+			<pubDate>Wed, 10 Jab 2018 00:00:00 -0000</pubDate>
+			<enclosure url="https://fluent.systems/winsparkle/SwiftWireInstaller.exe" sparkle:version="1.3.0.0" length="0" type="application/octet-stream" />
+		</item>
+	</channel>
+</rss>

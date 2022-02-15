@@ -1,0 +1,40 @@
+﻿SwiftWire End User License Agreement
+
+IMPORTANT, PLEASE READ CAREFULLY. THIS END USER LICENSE AGREEMENT (“EULA”) SETS FORTH THE TERMS AND CONDITIONS ON WHICH FLUENT SYSTEMS, INC. (“FLUENT SYSTEMS”) AGREES TO PROVIDE SOFTWARE (AS DEFINED BELOW) TO THE INDIVIDUAL USER ACCEPTING THIS EULA (“YOU”). 
+
+THIS SOFTWARE IS LICENSED, NOT SOLD. BY DOWNLOADING, INSTALLING AND/OR OTHERWISE USING THE SOFTWARE, YOU ARE ACCEPTING THE TERMS AND CONDITIONS OF THIS EULA IN A LEGALLY BINDING MANNER.  IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS EULA, DO NOT ATTEMPT TO DOWNLOAD, INSTALL, ACCESS OR OTHERWISE USE THIS SOFTWARE.  
+
+1. Software Defined.
+This EULA governs the access and use of SWIFTWIRE BY FLUENT, (ii) any installation manuals, user guides or other documentation in printed, “online”, or electronic form, and (iii) any new upgrades or updates of SWIFTWIRE BY FLUENT, including Beta versions, and future documentation obtained from Fluent Systems.  
+
+2. License Grant. 
+Subject to your compliance with the terms and conditions of this EULA, Fluent Systems grants to You a personal, nontransferable and nonexclusive right to use unlimited copies of the Software on computing devices owned by You, controlled by You, and used primarily by You. You may make copies of the Software for backup purposes, provided that You reproduce all copyright and other proprietary notices on the original Software.   Modifying, translating, renting, copying, transferring or assigning all or part of the Software, or any rights granted hereunder, to any other persons or removing any proprietary notices, labels or marks from the Software is strictly prohibited.
+ 
+3. Rights in Software. 
+Intellectual property rights in the Software are protected under the copyright laws of the United States and other applicable jurisdictions, including international treaties, as well as other United States, foreign and international laws, regulations and treaties for the protection of intellectual property.  Fluent Systems and its licensors shall have and retain sole and exclusive right, title and interest in and to the Software, including any and all copies and portions thereof and all intellectual property rights therein.  Fluent Systems and its licensors retain all rights not expressly granted herein.  You acknowledge and agree that the Software is licensed and not sold to You.  This software incorporates an unmodified executable version of AutoHotkey_L which is licensed under version 2 of the GNU General Public License. (“GPLv2”) In accordance with GPLv2 You may download a copy of the AutoHotkey_L source code at https://github.com/Lexikos/AutoHotkey_L/, as well as a copy of the GPLv2 license. 
+
+4. Disclaimer of Warranty. 
+The Software is provided "AS IS" without warranty of any kind. Fluent Systems  and its suppliers disclaim and make no express or implied warranties and speciﬁcally disclaim the warranties of merchantability, ﬁtness for a particular purpose and non-infringement of third-party rights.  The entire risk as to the quality and performance of the Software is with You. Neither Fluent Systems nor its suppliers warrant that the functions contained in the Software will meet your requirements or that the operation of the Software will be uninterrupted or error-free. FLUENT SYSTEMS IS NOT OBLIGATED TO PROVIDE ANY UPDATES TO THE SOFTWARE.  NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY FLUENT SYSTEMS OR ANY OF ITS AGENTS SHALL CREATE ANY WARRANTY OR IN ANY WAY INCREASE THE SCOPE OF THIS WARRANTY.
+
+5. Limitation of Liability. 
+Fluent Systems entire liability and your exclusive remedy under this EULA shall not exceed the price paid for the Software, if any. In no event shall Fluent Systems or its suppliers be liable for any damages whatsoever (including, without limitation, incidental, direct, indirect special and consequential damages, damages for loss of business proﬁts, business interruption, loss of business information, or other pecuniary loss) arising out of the use or inability to use this Software, even if Fluent Systems has been advised of the possibility of such damages. 
+
+6. Rental. 
+You may not loan, rent, or lease the Software. 
+
+7. Upgrades. 
+If this Software is an upgrade from an earlier release or previously released version, You may only use that upgraded product only in accordance with this EULA. If this Software is an upgrade of a software program which you licensed as a single product, this Software may be used only as part of that single product package and may not be separated for use on more than one computer. 
+
+8. OEM Product Support. 
+Product support for this Software provided by Fluent Systems. For product support, please email support@ﬂuent.systems.   You may also find answers at http://fluent.systems
+
+9. Indemnification by You. 
+If You distribute the Software in violation of this EULA, You agree to indemnify, hold harmless and defend Fluent Systems and its suppliers from and against any claims or lawsuits, including attorney's fees that arise or result from the use or distribution of the Software in violation of this EULA. 
+
+10. HIPAA Compliance.
+The Software does not require access to Protected Health Information (“PHI”), as defined by the Health Insurance Portability and Accountability Act, to perform its functions.  At no time will the Software obtain or retain your PHI in the execution of its functions. You agree not to provide PHI to Fluent without prior agreement with Fluent.
+
+Fluent Systems, Inc.
+1709 Creekside Dr
+Stevensville, MT, 59870                 
+http://fluent.systems

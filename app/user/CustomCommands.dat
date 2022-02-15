@@ -1,0 +1,11 @@
+/*
+  Add custom Autohotkey commands to this script to be loaded when SwiftWire is run
+  Allows hotkeys to launch automations (not just clicking items in SwiftWire toolbar)
+  Uses same syntax as regular Autohotkey commands
+  Meant for advanced users
+*/
+
+;example Custom Command
+;#+s::
+;Send, Hi, I'm SwiftWire
+;return
